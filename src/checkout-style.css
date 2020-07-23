@@ -2202,7 +2202,7 @@ a.client-masked-info {
 }
 .steps-view,
 .gift-card-section {
-  background: #f4f4f4;
+  /* background: #f4f4f4; */
   padding-left: 15px;
   border-radius: 5px;
   -moz-border-radius: 5px;
